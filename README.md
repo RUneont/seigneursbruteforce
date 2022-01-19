@@ -14,4 +14,4 @@ Now Enter The Username & Password List & Enjoy :)
 # Important
 Use Powerful Internet Connection For Using This Tool
 
-If You Dont Have a Good Internet Connection You Can Use https://codeanywhere.com or https://heroku.com servers :)
+If You Dont Have a Good Internet Connection You Can Use https://codeanywhere.com servers :)
