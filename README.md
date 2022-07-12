@@ -1,17 +1,11 @@
-# Instagram-Hack
-Hack Instagram Accounts With This Tool :)
+Disclaimer
 
-# Installation
+Any actions and or activities related to SEIGNEURS BRUTE FORCE is solely your responsibility. The misuse of this toolkit can result in criminal charges brought against the persons in question. The contributors will not be held responsible in the event any criminal charges be brought against any individuals misusing this toolkit to break the law.
 
-`git clone https://github.com/bl4ckwin/Instagram-Hack`
+This toolkit contains materials that can be potentially damaging or dangerous for social media. Refer to the laws in your province/country before accessing, using,or in any other way utilizing this in a wrong way.
 
-`cd Instagram-Hack`
+This Tool is made for educational purposes only. Do not attempt to violate the law with anything contained here. If this is your intention, then Get the hell out of here!
 
-`python Instagram.py`
+It only demonstrates "how phishing works". You shall not misuse the information to gain unauthorized access to someones social media. However you may try out this at your own risk
 
-Now Enter The Username & Password List & Enjoy :)
-
-# Important
-Use Powerful Internet Connection For Using This Tool
-
-If You Dont Have a Good Internet Connection You Can Use https://codeanywhere.com servers :)
+CREDITS-BL4CKWIN
